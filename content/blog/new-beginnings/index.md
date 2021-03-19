@@ -1,108 +1,35 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Proteus
+date: "2021-03-19"
+description: Proteus, un material indestructible de tiempos modernos.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+A lo largo de la historia el desarrollo de nuevos elementos ha dado pie a varios materiales impensables para el humano común, los cuales ya sea por su resistencia, durabilidad, ligereza, así como otras propiedades permiten que la industria progrese a pasos agigantados en pro del progreso científico y humano.
 
-## On deer horse aboard tritely yikes and much
+## Introducción: Proteus, un material indestructible de tiempos modernos
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+Es así como nace Proteus, un material artificial creado en base a estructuras jerárquicas observadas en la naturaleza como lo son las cáscaras de pomelo que evitan dañar la pulpa a su caída libre desde su árbol y los peces arapaimas, los cuales resisten al ataque de las pirañas del Amazonas por medio del diseño jerárquico de sus escamas; sus propiedades mecánicas resaltan en ser imposible de cortar así como el poseer una ligereza que lo hace mucho más apto para actividades tanto cotidianas como estructurales.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+### ¿Pero, qué es Proteus?
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+“Nature uses hierarchical structures for protection from extreme loads.”(La naturaleza usa estructuras jerárquicas para protegerse de cargas extremas). Szyniszewski, S., Vogel, R., Bittner; 2020
+El nombre del material proviene del dios griego Proteus, cuya habilidad para cambiar de forma se relacionó bastante con la capacidad de este material de adoptar una composición al momento de ejercerse una fuerza interna dentro del mismo.
 
-### Overlaid the jeepers uselessly much excluding
+Proteus nace como un material que busca ser ligero y difícil de cortar, además de que, según las declaraciones hechas a la revista Daily Mail por parte de la Universidad de Durham y el Instituto Fraunhofer en Alemania, este actúa como un animal vivo más que como un objeto inanimado, por lo que puede catalogársele como un “material inteligente”.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+### Propiedades de Proteus
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+1. Este material es susceptible a vibraciones internas bajo cargas localizadas por medio de una estructura celular metálica que, por medio de una rejilla interna compuesta por segmentos cerámicos grandes, puede contrarrestar el corte de una amoladora angular y de un taladro eléctrico llevando solo un 15% de la densidad del acero en su composición cerámica.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+2. Las estructuras cerámicas de Proteus provocan que, a través de una interfaz vibratoria que se genera en su capa exterior y que produce una serie de excitaciones dentro del material, este bloquee todo tipo de movimiento de rozamiento y corte dentro del mismo, haciendo que el aparato que estuviera penetrando al material deje de funcionar al devolvérsele la fuerza empleada en el corte.
 
-### According a funnily until pre-set or arrogant well cheerful
+3.  De acuerdo a declaraciones de Stefan Szyniszewski, podemos tomar en consideración la siguiente analogía para este novedoso material: “Essentially cutting our material is like cutting through a jelly-filled with nuggets. If you get through the jelly, you hit the nuggets, and the material will vibrate in such a way that it destroys the cutting disc or drill bit, (…)” (Básicamente, cortar nuestro material es como cortar una gelatina llena de pepitas. Si atraviesas la gelatina, golpeas las pepitas y el material vibrará de tal manera que destruirá el disco de corte o la broca…) Revista Intelligent Living, 2020
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+4.  Entre las aplicaciones que puede llegar a tener este material se encuentran aquellas relacionadas a la resistencia a grandes fuerzas y protección, tales son las paredes de las cajas fuertes así como puertas de bóvedas de banco y armaduras de refuerzo y protección.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
-
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
-
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+5. Webgrafia:
+> https://www.nature.com/articles/s41598-020-65976-0#Sec1
+> https://www.merca2.es/2020/08/31/asi-es-proteus-primer-material-irrompible/2/
+> https://www.lanacion.com.ar/tecnologia/proteus-asi-es-primer-material-artificial-indestructible-nid2401705/
+> https://www.intelligentliving.co/proteus-non-cuttable-material/
+> https://www.intelligentliving.co/proteus-non-cuttable-material/
